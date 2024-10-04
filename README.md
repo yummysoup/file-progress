@@ -1,6 +1,6 @@
 # file-progress
 
-Show progress processing files on linux
+When processing files on linux, show overall progress. Useful when a utility does not report its own progress.
 
 # What it actually does
 
